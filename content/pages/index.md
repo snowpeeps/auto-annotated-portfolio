@@ -219,9 +219,6 @@ sections:
       - type: Label
         label: Next.js
         url: ''
-      - type: Label
-        label: Netlify
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
