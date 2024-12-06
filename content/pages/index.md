@@ -60,7 +60,7 @@ sections:
         url: 'https://snowpeep-is-peak.vercel.app/'
       - type: Label
         label: Art Class
-        url: ''
+        url: 'https://snow-pep-is-ral.vercel.app/'
       - type: Label
         label: Pancakes
         url: ''
