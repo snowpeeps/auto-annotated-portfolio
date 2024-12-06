@@ -93,7 +93,7 @@ sections:
         url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
       - type: Label
         label: Collection of Games
-        url: ''
+        url: 'https://grims.pro/'
     colors: colors-f
     elementId: ''
     styles:
