@@ -90,7 +90,7 @@ sections:
         url: 'https://snow-peep-is-the-best-peep.vercel.app/app'
       - type: Label
         label: Label title
-        url: ''
+        url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
     colors: colors-f
     elementId: ''
     styles:
