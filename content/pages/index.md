@@ -169,7 +169,7 @@ sections:
         url: 'https://snow-peep7.vercel.app'
       - type: Label
         label: Interstellar
-        url: ''
+        url: 'https://snow-peep8.vercel.app'
     colors: colors-f
     elementId: ''
     styles:
