@@ -124,8 +124,8 @@ sections:
         label: Doge
         url: 'https://snow-peep-is-best.vercel.app/app'
       - type: Label
-        label: Microsoft Office
-        url: ''
+        label: Doge
+        url: 'https://speep-is-the-best.vercel.app/app'
       - type: Label
         label: Next.js
         url: ''
