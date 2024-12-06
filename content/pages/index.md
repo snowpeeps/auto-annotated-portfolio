@@ -60,9 +60,6 @@ sections:
         url: 'https://grims.pro/'
       - type: Label
         label: Seraph
-        url: ''
-      - type: Label
-        label: Seraph
         url: 'https://snowpeeps.netlify.app/'
       - type: Label
         label: Seraph
