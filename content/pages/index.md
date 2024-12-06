@@ -185,7 +185,7 @@ sections:
         label: Art CLass
         url: 'https://snowpeep-is-peak.vercel.app/'
       - type: Label
-        label: Microsoft Office
+        label: Art Class
         url: ''
       - type: Label
         label: Next.js
