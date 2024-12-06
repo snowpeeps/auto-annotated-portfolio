@@ -77,7 +77,7 @@ sections:
         label: Doge
         url: 'https://give-speep-all.vercel.app/app'
       - type: Label
-        label: Label title
+        label: Doge
         url: ''
       - type: Label
         label: Label title
