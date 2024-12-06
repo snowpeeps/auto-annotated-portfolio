@@ -85,6 +85,9 @@ sections:
       - type: Label
         label: Label title
         url: ''
+      - type: Label
+        label: Label title
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
