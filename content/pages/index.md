@@ -166,7 +166,7 @@ sections:
         url: 'https://snow-peep6.vercel.app'
       - type: Label
         label: Interstellar
-        url: ''
+        url: 'https://snow-peep7.vercel.app'
       - type: Label
         label: Interstellar
         url: ''
