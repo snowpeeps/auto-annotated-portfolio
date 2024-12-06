@@ -106,6 +106,9 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://detoserver.netlify.app/'
+      - type: Label
+        label: No Account College Board Tutorial
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
