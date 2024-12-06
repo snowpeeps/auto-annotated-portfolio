@@ -162,7 +162,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: Pancakes
+        label: Interstellar
         url: ''
       - type: Label
         label: C++
