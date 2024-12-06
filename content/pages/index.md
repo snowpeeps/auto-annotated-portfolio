@@ -73,6 +73,9 @@ sections:
       - type: Label
         label: Doge
         url: 'https://speep-is-the-best.vercel.app/app'
+      - type: Label
+        label: Label title
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
