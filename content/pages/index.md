@@ -222,9 +222,6 @@ sections:
       - type: Label
         label: Netlify
         url: ''
-      - type: Label
-        label: Pancakes
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
