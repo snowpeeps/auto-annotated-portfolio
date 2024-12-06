@@ -84,7 +84,7 @@ sections:
         url: 'https://speep-is-cool.vercel.app/app'
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://speep-is-all-powerfull.vercel.app/app'
       - type: Label
         label: Label title
         url: ''
