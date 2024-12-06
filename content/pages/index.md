@@ -124,7 +124,7 @@ sections:
         label: Doge
         url: 'https://speep-is-all-powerfull.vercel.app/app'
       - type: Label
-        label: C++
+        label: 'https://snow-peep-is-the-best-peep.vercel.app/app'
         url: ''
       - type: Label
         label: Swift
