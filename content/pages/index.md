@@ -100,6 +100,9 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://snowpeeps.netlify.app/'
+      - type: Label
+        label: Seraph
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
