@@ -186,7 +186,7 @@ sections:
         url: 'https://snow-pep-is-ral.vercel.app/'
       - type: Label
         label: Next.js
-        url: ''
+        url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
         label: Netlify
         url: ''
