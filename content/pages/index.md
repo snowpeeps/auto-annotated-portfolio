@@ -42,12 +42,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/snow peep.jpeg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: LabelsSection
     title: Links
     subtitle: ''
