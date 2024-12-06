@@ -59,7 +59,7 @@ sections:
         label: Art Class
         url: 'https://snowpeep-is-peak.vercel.app/'
       - type: Label
-        label: Netlify
+        label: Art Class
         url: ''
       - type: Label
         label: Pancakes
