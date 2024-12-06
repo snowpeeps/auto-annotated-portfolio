@@ -127,7 +127,7 @@ sections:
         label: Doge
         url: 'https://the-deto-server-is-real.vercel.app/'
       - type: Label
-        label: React
+        label: Doge
         url: 'https://snow-peep-is-best.vercel.app/app'
       - type: Label
         label: Microsoft Office
