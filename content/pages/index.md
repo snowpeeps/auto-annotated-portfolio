@@ -63,9 +63,6 @@ sections:
         url: ''
       - type: Label
         label: Seraph
-        url: ''
-      - type: Label
-        label: Seraph
         url: 'https://detoserver.netlify.app/'
       - type: Label
         label: ' College Board With No Account Tutorial'
