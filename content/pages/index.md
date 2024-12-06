@@ -10,6 +10,44 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: full list of links
+    subtitle: Snow peep
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/snow peep.jpeg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: LabelsSection
     title: Links
     subtitle: ''
@@ -51,44 +89,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: full list of links
-    subtitle: Snow peep
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/snow peep.jpeg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: LabelsSection
     title: Doge Links
     subtitle: ''
