@@ -62,7 +62,7 @@ sections:
         label: Art Class
         url: 'https://snow-pep-is-ral.vercel.app/'
       - type: Label
-        label: Pancakes
+        label: Art Class
         url: ''
       - type: Label
         label: C++
