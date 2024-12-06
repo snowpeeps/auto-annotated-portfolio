@@ -94,6 +94,9 @@ sections:
       - type: Label
         label: Collection of Games
         url: 'https://grims.pro/'
+      - type: Label
+        label: Seraph
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
