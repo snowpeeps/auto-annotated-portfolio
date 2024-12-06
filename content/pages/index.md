@@ -48,7 +48,7 @@ sections:
     items:
       - type: Label
         label: Interstallar
-        url: ''
+        url: 'http://snow-peep.vercel.app/'
       - type: Label
         label: React
         url: ''
