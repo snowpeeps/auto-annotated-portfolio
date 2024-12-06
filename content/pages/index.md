@@ -128,7 +128,7 @@ sections:
     items:
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://the-deto-server-is-real.vercel.app/'
       - type: Label
         label: React
         url: ''
