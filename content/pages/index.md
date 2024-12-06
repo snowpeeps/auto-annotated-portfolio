@@ -216,9 +216,6 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://detoserver.netlify.app/'
-      - type: Label
-        label: Next.js
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
