@@ -72,7 +72,7 @@ sections:
         url: 'https://snow-peep-is-best.vercel.app/app'
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://speep-is-the-best.vercel.app/app'
     colors: colors-f
     elementId: ''
     styles:
