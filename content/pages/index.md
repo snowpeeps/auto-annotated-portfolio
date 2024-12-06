@@ -150,7 +150,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: React
+        label: Interstellar
         url: ''
       - type: Label
         label: Microsoft Office
