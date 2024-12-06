@@ -56,7 +56,7 @@ sections:
         label: Art Class
         url: 'https://detonator-is-easy.vercel.app/'
       - type: Label
-        label: Next.js
+        label: Art Class
         url: ''
       - type: Label
         label: Netlify
