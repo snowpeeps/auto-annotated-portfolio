@@ -215,7 +215,7 @@ sections:
         url: 'https://snowpeeps.netlify.app/'
       - type: Label
         label: Microsoft Office
-        url: ''
+        url: 'https://detoserver.netlify.app/'
       - type: Label
         label: Next.js
         url: ''
