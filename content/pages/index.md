@@ -68,7 +68,7 @@ sections:
         label: Doge
         url: 'https://the-deto-server-is-real.vercel.app/'
       - type: Label
-        label: Swift
+        label: Doge
         url: ''
       - type: Label
         label: Label title
