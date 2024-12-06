@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: full list of links
-    subtitle: ''
+    subtitle: Don't click on "blog
     styles:
       self:
         height: auto
