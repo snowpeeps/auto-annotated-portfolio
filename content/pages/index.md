@@ -70,7 +70,7 @@ sections:
       - type: Label
         label: Swift
         url: ''
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     styles:
       self:
