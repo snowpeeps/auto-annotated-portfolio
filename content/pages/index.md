@@ -66,7 +66,7 @@ sections:
         url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
         label: Doge
-        url: 'https://speep-is-the-best-ebon.vercel.app/app'
+        url: ''
       - type: Label
         label: Doge
         url: 'https://speep-is-cool.vercel.app/app'
