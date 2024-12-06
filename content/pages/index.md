@@ -108,7 +108,7 @@ sections:
         url: 'https://detoserver.netlify.app/'
       - type: Label
         label: No Account College Board Tutorial
-        url: ''
+        url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
     colors: colors-f
     elementId: ''
     styles:
