@@ -43,6 +43,8 @@ sections:
     type: HeroSection
     actions: []
     text: |
+      DONT SHARE THIS WEBSITE. I CANNOT ADD PASSWORD PROTECTION.
+
       If a link isn't working, let me know.![](/images/snow%20peep.jpeg)
   - type: LabelsSection
     title: Links
