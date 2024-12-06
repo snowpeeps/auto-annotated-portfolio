@@ -96,7 +96,7 @@ sections:
         url: 'https://grims.pro/'
       - type: Label
         label: Seraph
-        url: ''
+        url: 'https://snowpeep.netlify.app/'
     colors: colors-f
     elementId: ''
     styles:
