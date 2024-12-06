@@ -66,7 +66,7 @@ sections:
         url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
         label: Doge
-        url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
+        url: ''
       - type: Label
         label: Collection of Games
         url: 'https://grims.pro/'
