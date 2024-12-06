@@ -165,7 +165,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: C++
+        label: Interstellar
         url: ''
       - type: Label
         label: Swift
