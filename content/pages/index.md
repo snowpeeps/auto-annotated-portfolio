@@ -186,7 +186,7 @@ sections:
         url: 'https://detonator-is-easy.vercel.app/'
       - type: Label
         label: React
-        url: ''
+        url: 'https://snowpeep-is-peak.vercel.app/'
       - type: Label
         label: Microsoft Office
         url: ''
