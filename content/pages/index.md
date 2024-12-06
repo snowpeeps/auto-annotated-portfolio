@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: full list of links
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -47,34 +42,30 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    text: |
+      If a link isn't working, let me know.![](/images/snow%20peep.jpeg)
+  - type: LabelsSection
+    title: Links
+    subtitle: ''
+    items:
+      - type: Label
+        label: Roblox
+        url: 'https://thewebsitesbridge.com/'
+      - type: Label
+        label: Collection of Games
+        url: 'https://grims.pro/'
+      - type: Label
+        label: ' College Board With No Account Tutorial'
+        url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
+    colors: colors-f
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -82,115 +73,153 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
+  - type: LabelsSection
+    title: Doge Links
+    subtitle: ''
+    items:
+      - type: Label
+        label: Doge
+        url: 'https://the-deto-server-is-real.vercel.app/'
+      - type: Label
+        label: Doge
+        url: 'https://snow-peep-is-best.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://speep-is-the-best.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://speep-is-the-best-ebon.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://speep-is-cool.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://speep-is-all-powerfull.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://snow-peep-is-the-best-peep.vercel.app/app'
+      - type: Label
+        label: Doge
+        url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
+    colors: colors-f
     elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
-          - pt-28
-          - pb-48
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
         textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: ContactSection
+  - type: LabelsSection
+    title: Interstellar Links
+    subtitle: ''
+    items:
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep2.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep3.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep4.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep5.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep6.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep7.vercel.app'
+      - type: Label
+        label: Interstellar
+        url: 'https://snow-peep8.vercel.app'
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-36
+          - pb-36
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
         textAlign: left
-      text:
+      subtitle:
+        textAlign: left
+  - type: LabelsSection
+    title: Art Class Links
+    subtitle: ''
+    items:
+      - type: Label
+        label: Art Class
+        url: 'https://detonator-is-easy.vercel.app/'
+      - type: Label
+        label: Art CLass
+        url: 'https://snowpeep-is-peak.vercel.app/'
+      - type: Label
+        label: Art Class
+        url: 'https://snow-pep-is-ral.vercel.app/'
+      - type: Label
+        label: Art Class
+        url: 'https://snow-peep-is-peak.vercel.app/'
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: LabelsSection
+    title: Seraph Links
+    subtitle: (a ton of games)
+    items:
+      - type: Label
+        label: Seraph
+        url: 'https://snowpeep.netlify.app/'
+      - type: Label
+        label: Seraph
+        url: 'https://snowpeeps.netlify.app/'
+      - type: Label
+        label: Seraph
+        url: 'https://detoserver.netlify.app/'
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
         textAlign: left
 ---
