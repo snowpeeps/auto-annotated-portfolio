@@ -211,7 +211,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: Seraph Links
-    subtitle: The section subtitle
+    subtitle: (a ton of games0
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
