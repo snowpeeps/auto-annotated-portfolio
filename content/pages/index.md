@@ -69,7 +69,7 @@ sections:
         url: 'https://the-deto-server-is-real.vercel.app/'
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://snow-peep-is-best.vercel.app/app'
       - type: Label
         label: Label title
         url: ''
