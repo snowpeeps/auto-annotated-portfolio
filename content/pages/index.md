@@ -53,7 +53,7 @@ sections:
         label: Interstallar
         url: 'http://snow-peep.vercel.app/'
       - type: Label
-        label: Microsoft Office
+        label: Art Class
         url: ''
       - type: Label
         label: Next.js
