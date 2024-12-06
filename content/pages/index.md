@@ -125,7 +125,7 @@ sections:
         url: 'https://speep-is-cool.vercel.app/app'
       - type: Label
         label: Pancakes
-        url: ''
+        url: 'https://speep-is-all-powerfull.vercel.app/app'
       - type: Label
         label: C++
         url: ''
