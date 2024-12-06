@@ -211,7 +211,7 @@ sections:
         label: Seraph
         url: 'https://snowpeep.netlify.app/'
       - type: Label
-        label: React
+        label: Seraph
         url: 'https://snowpeeps.netlify.app/'
       - type: Label
         label: Microsoft Office
