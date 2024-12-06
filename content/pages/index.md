@@ -63,7 +63,7 @@ sections:
         url: 'https://snow-pep-is-ral.vercel.app/'
       - type: Label
         label: Art Class
-        url: ''
+        url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
         label: C++
         url: ''
