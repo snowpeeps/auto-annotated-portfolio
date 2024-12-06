@@ -214,7 +214,7 @@ sections:
         label: Seraph
         url: 'https://snowpeeps.netlify.app/'
       - type: Label
-        label: Microsoft Office
+        label: Seraph
         url: 'https://detoserver.netlify.app/'
       - type: Label
         label: Next.js
