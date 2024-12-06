@@ -124,7 +124,7 @@ sections:
         label: Doge
         url: 'https://speep-is-the-best-ebon.vercel.app/app'
       - type: Label
-        label: Netlify
+        label: Doge
         url: ''
       - type: Label
         label: Pancakes
