@@ -159,7 +159,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: Netlify
+        label: Interstellar
         url: ''
       - type: Label
         label: Pancakes
