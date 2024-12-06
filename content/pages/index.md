@@ -212,7 +212,7 @@ sections:
         url: 'https://snowpeep.netlify.app/'
       - type: Label
         label: React
-        url: ''
+        url: 'https://snowpeeps.netlify.app/'
       - type: Label
         label: Microsoft Office
         url: ''
