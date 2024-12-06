@@ -97,6 +97,9 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://snowpeep.netlify.app/'
+      - type: Label
+        label: Seraph
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
