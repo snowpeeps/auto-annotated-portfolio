@@ -225,9 +225,6 @@ sections:
       - type: Label
         label: Pancakes
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
