@@ -184,7 +184,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: Art Class Links
     subtitle: The section subtitle
     items:
       - type: Label
