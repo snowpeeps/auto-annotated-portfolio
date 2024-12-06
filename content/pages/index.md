@@ -51,7 +51,7 @@ sections:
         url: 'https://thewebsitesbridge.com/'
       - type: Label
         label: Art Class
-        url: 'https://detonator-is-easy.vercel.app/'
+        url: ''
       - type: Label
         label: Art Class
         url: 'https://snowpeep-is-peak.vercel.app/'
