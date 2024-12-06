@@ -211,7 +211,7 @@ sections:
     subtitle: (a ton of games)
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Seraph
         url: ''
       - type: Label
         label: React
