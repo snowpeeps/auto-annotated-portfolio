@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: full list of links
-    subtitle: Snow peep
+    subtitle: ''
     styles:
       self:
         height: auto
