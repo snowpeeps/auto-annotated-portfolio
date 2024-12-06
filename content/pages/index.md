@@ -62,9 +62,6 @@ sections:
         label: Seraph
         url: ''
       - type: Label
-        label: Seraph
-        url: ''
-      - type: Label
         label: ' College Board With No Account Tutorial'
         url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
     colors: colors-f
