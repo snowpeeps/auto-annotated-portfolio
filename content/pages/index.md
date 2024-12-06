@@ -42,6 +42,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      If a link isn't working, let me know.![](/images/snow%20peep.jpeg)
   - type: LabelsSection
     title: Links
     subtitle: ''
