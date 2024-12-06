@@ -212,7 +212,7 @@ sections:
     items:
       - type: Label
         label: Seraph
-        url: ''
+        url: 'https://snowpeep.netlify.app/'
       - type: Label
         label: React
         url: ''
