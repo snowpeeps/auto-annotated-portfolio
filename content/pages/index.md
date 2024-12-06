@@ -153,7 +153,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Interstellar
         url: ''
       - type: Label
         label: Next.js
