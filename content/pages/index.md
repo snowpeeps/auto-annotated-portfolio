@@ -80,7 +80,7 @@ sections:
         label: Doge
         url: 'https://speep-is-the-best-ebon.vercel.app/app'
       - type: Label
-        label: Label title
+        label: Doge
         url: ''
     colors: colors-f
     elementId: ''
