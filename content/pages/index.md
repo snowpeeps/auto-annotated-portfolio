@@ -91,6 +91,9 @@ sections:
       - type: Label
         label: Doge
         url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
+      - type: Label
+        label: Collection of Games
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
