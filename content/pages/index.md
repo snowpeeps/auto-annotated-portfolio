@@ -168,7 +168,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: Swift
+        label: Interstellar
         url: ''
     colors: colors-f
     elementId: ''
