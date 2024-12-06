@@ -156,7 +156,7 @@ sections:
         label: Interstellar
         url: ''
       - type: Label
-        label: Next.js
+        label: Interstellar
         url: ''
       - type: Label
         label: Netlify
