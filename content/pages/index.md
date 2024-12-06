@@ -124,7 +124,7 @@ sections:
         label: Doge
         url: 'https://speep-is-cool.vercel.app/app'
       - type: Label
-        label: Pancakes
+        label: Doge
         url: 'https://speep-is-all-powerfull.vercel.app/app'
       - type: Label
         label: C++
