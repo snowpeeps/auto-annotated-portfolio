@@ -104,7 +104,7 @@ sections:
         label: Seraph
         url: ''
       - type: Label
-        label: 'https://detoserver.netlify.app/'
+        label: Seraph
         url: ''
     colors: colors-f
     elementId: ''
