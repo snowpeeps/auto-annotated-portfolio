@@ -124,7 +124,7 @@ sections:
         label: 'https://snow-peep-is-the-best-peep.vercel.app/app'
         url: ''
       - type: Label
-        label: Swift
+        label: Doge
         url: ''
     colors: colors-f
     elementId: ''
