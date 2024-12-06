@@ -51,9 +51,6 @@ sections:
         url: 'https://thewebsitesbridge.com/'
       - type: Label
         label: Art Class
-        url: ''
-      - type: Label
-        label: Art Class
         url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
         label: Collection of Games
