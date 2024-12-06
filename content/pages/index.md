@@ -188,9 +188,6 @@ sections:
         label: Art Class
         url: 'https://snow-peep-is-peak.vercel.app/'
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
