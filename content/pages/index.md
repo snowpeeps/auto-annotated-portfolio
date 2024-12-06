@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: full list of links
-    subtitle: Don't click on "blog
+    subtitle: Don't click on things at the top like blog. I can't get rid of them.
     styles:
       self:
         height: auto
