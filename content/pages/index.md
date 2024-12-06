@@ -185,7 +185,7 @@ sections:
         label: Art Class
         url: 'https://detonator-is-easy.vercel.app/'
       - type: Label
-        label: React
+        label: Art CLass
         url: 'https://snowpeep-is-peak.vercel.app/'
       - type: Label
         label: Microsoft Office
