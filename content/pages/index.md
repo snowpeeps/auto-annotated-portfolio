@@ -124,7 +124,7 @@ sections:
         label: Doge
         url: 'https://speep-is-the-best.vercel.app/app'
       - type: Label
-        label: Next.js
+        label: Doge
         url: ''
       - type: Label
         label: Netlify
