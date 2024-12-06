@@ -78,7 +78,7 @@ sections:
         url: 'https://give-speep-all.vercel.app/app'
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://speep-is-the-best-ebon.vercel.app/app'
       - type: Label
         label: Label title
         url: ''
