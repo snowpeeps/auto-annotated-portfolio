@@ -186,7 +186,7 @@ sections:
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
-        url: ''
+        url: 'https://detonator-is-easy.vercel.app/'
       - type: Label
         label: React
         url: ''
