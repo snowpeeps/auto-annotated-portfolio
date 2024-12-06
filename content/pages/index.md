@@ -125,7 +125,7 @@ sections:
         url: 'https://speep-is-the-best-ebon.vercel.app/app'
       - type: Label
         label: Doge
-        url: ''
+        url: 'https://speep-is-cool.vercel.app/app'
       - type: Label
         label: Pancakes
         url: ''
