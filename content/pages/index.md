@@ -50,9 +50,6 @@ sections:
         label: Roblox
         url: 'https://thewebsitesbridge.com/'
       - type: Label
-        label: Art Class
-        url: ''
-      - type: Label
         label: Collection of Games
         url: 'https://grims.pro/'
       - type: Label
