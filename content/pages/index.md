@@ -54,7 +54,7 @@ sections:
         url: 'http://snow-peep.vercel.app/'
       - type: Label
         label: Art Class
-        url: ''
+        url: 'https://detonator-is-easy.vercel.app/'
       - type: Label
         label: Next.js
         url: ''
