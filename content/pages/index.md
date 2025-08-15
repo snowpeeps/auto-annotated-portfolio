@@ -199,7 +199,7 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://detoserver.netlify.app/'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
