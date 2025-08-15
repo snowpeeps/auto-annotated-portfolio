@@ -97,7 +97,7 @@ sections:
       - type: Label
         label: Doge
         url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
