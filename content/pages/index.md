@@ -44,7 +44,7 @@ sections:
     actions: []
     text: ''
   - type: LabelsSection
-    title: Misc.
+    title: links
     subtitle: ''
     items:
       - type: Label
