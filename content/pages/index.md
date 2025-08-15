@@ -173,7 +173,7 @@ sections:
       - type: Label
         label: Art Class
         url: 'https://snow-peep-is-peak.vercel.app/'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
