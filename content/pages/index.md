@@ -54,9 +54,6 @@ sections:
         label: Roblox
         url: 'https://thewebsitesbridge.com/'
       - type: Label
-        label: Collection of Games
-        url: 'https://grims.pro/'
-      - type: Label
         label: ' College Board With No Account Tutorial'
         url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
     colors: colors-f
@@ -201,10 +198,7 @@ sections:
     items:
       - type: Label
         label: Seraph
-        url: 'https://snowpeep.netlify.app/'
-      - type: Label
-        label: Seraph
-        url: 'https://snowpeeps.netlify.app/'
+        url: 'https://o0o0o0o0o0o000ooo00o000oo00ooo0o0o00o.netlify.app/'
       - type: Label
         label: Seraph
         url: 'https://detoserver.netlify.app/'
