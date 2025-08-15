@@ -11,10 +11,10 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
-    title: full list of links
-    subtitle: Don't click on things at the top like blog. I can't get rid of them.
+    title: links
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -42,10 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      DONT SHARE THIS WEBSITE. I CANNOT ADD PASSWORD PROTECTION.
-
-      If a link isn't working, let me know.![](/images/snow%20peep.jpeg)
+    text: ''
   - type: LabelsSection
     title: Links
     subtitle: ''
@@ -56,7 +53,7 @@ sections:
       - type: Label
         label: ' College Board With No Account Tutorial'
         url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
@@ -100,7 +97,7 @@ sections:
       - type: Label
         label: Doge
         url: 'https://snow-peep-is-cool-gamma.vercel.app/app'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
@@ -144,7 +141,7 @@ sections:
       - type: Label
         label: Interstellar
         url: 'https://snow-peep8.vercel.app'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
@@ -176,7 +173,7 @@ sections:
       - type: Label
         label: Art Class
         url: 'https://snow-peep-is-peak.vercel.app/'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
@@ -202,7 +199,7 @@ sections:
       - type: Label
         label: Seraph
         url: 'https://detoserver.netlify.app/'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
