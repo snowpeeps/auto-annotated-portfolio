@@ -198,9 +198,6 @@ sections:
     items:
       - type: Label
         label: Seraph
-        url: 'https://snowpeep.netlify.app/'
-      - type: Label
-        label: Seraph
         url: 'https://snowpeeps.netlify.app/'
       - type: Label
         label: Seraph
