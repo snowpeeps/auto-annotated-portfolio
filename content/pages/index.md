@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: full list of links
+    title: links
     subtitle: ''
     styles:
       self:
