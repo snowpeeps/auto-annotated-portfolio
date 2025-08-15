@@ -141,7 +141,7 @@ sections:
       - type: Label
         label: Interstellar
         url: 'https://snow-peep8.vercel.app'
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
