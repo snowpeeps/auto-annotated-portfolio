@@ -54,9 +54,6 @@ sections:
         label: Roblox
         url: 'https://thewebsitesbridge.com/'
       - type: Label
-        label: Collection of Games
-        url: 'https://grims.pro/'
-      - type: Label
         label: ' College Board With No Account Tutorial'
         url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
     colors: colors-f
