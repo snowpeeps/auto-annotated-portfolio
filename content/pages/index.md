@@ -53,7 +53,7 @@ sections:
       - type: Label
         label: ' College Board With No Account Tutorial'
         url: 'https://www.youtube.com/watch?v=xkzDQO9H7hE'
-    colors: colors-b
+    colors: colors-a
     elementId: ''
     styles:
       self:
